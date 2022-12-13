@@ -1,4 +1,4 @@
-import starIcon from './star.svg';
+import starIcon from '../star.svg';
 const IMAGE_URL = 'https://image.tmdb.org/t/p';
 
 const IMAGES_SIZES = {
